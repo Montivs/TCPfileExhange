@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="TCPfileExhange:jar">
+    <output-path>$PROJECT_DIR$/out</output-path>
+    <root id="archive" name="TCPfileExhange.jar">
+      <element id="module-output" name="TCPfileExhange" />
+    </root>
+  </artifact>
+</component>
